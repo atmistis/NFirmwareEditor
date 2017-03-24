@@ -1,0 +1,306 @@
+// Shared
+Toolbox.Shared.SecondString=δευτερόλεπτο
+Toolbox.Shared.SecondsString=δευτερόλεπτα
+
+// NToolbox Window
+Toolbox.MainWindow.ArcticFoxConfigurationButton=Ρυθμίσεις ArcticFox
+Toolbox.MainWindow.MyEvicConfigurationButton=Ρυθμίσεις myEvic
+Toolbox.MainWindow.DeviceMonitorButton=Ελεγκτής Συσκευής
+Toolbox.MainWindow.ScreenshooterButton=Εικονογράφος
+Toolbox.MainWindow.FirmwareUpdaterButton=Αναβάθμιση Firmware
+Toolbox.MainWindow.AboutLink=Σχετικά && Σύνδεσμοι
+
+Toolbox.MainWindow.Tray.ShowToolbox=Εμφάνιση παραθύρου NFE Toolbox
+Toolbox.MainWindow.Tray.ArcticFoxConfigurationWhenDeviceConnected=Άνοιγμα των Ρυθμίσεων του ArcticFox με τη σύνδεση συσκευής
+Toolbox.MainWindow.Tray.TimeSync=Συγχρονισμός ώρας με τη σύνδεση συσκευής
+Toolbox.MainWindow.Tray.StartWithWindows=Εκτέλεση του NFE Toolbox με την εκκίνηση των Windows
+Toolbox.MainWindow.Tray.Exit=Έξοδος
+
+// ArcticFox Configuration Window
+Toolbox.ArcticFoxConfiguration.Message.ConnectDevice=Συνδέστε συσκευή με το \n\nArcticFox\n[{0}]\n\nfirmware ή νεώτερο
+Toolbox.ArcticFoxConfiguration.Message.DownloadingSettings=Λήψη ρυθμίσεων...
+Toolbox.ArcticFoxConfiguration.Message.OutdatedToolbox=Η έκδοση του NFE Toolbox είναι ξεπερασμένη.\n\nΓια να συνεχίσετε, παρακαλώ κατεβάστε\n\nτην τελευταία διαθέσιμη έκδοση.
+Toolbox.ArcticFoxConfiguration.Message.NoCompatibleUSBDevice=Δεν υπάρχουν συμβατές συσκευές USB που να είναι συνδεδεμένες.\n\nΓια να συνεχίσετε, παρακαλώ συνδέστε μία.\n\nΕάν η συσκευή είναι συνδεδεμένη, προσπαθήστε να την αποσυνδέσετε και να τη συνδέσετε και πάλι. Το καλώδιο μπορεί να είναι χαλαρό.
+Toolbox.ArcticFoxConfiguration.Message.UnableToReadData=Δεν είναι δυνατή η λήψη των ρυθμίσεων της συσκευής. Συνδέστε ξανά τη συσκευή σας.
+
+Toolbox.ArcticFoxConfiguration.Status.Device=Η συσκευή έχει
+Toolbox.ArcticFoxConfiguration.Status.Connected=συνδεθεί
+Toolbox.ArcticFoxConfiguration.Status.Disconnected=αποσυνδεθεί
+Toolbox.ArcticFoxConfiguration.Status.Ready=Έτοιμο
+Toolbox.ArcticFoxConfiguration.Status.OperationCompleted=Η διαδικασία ολοκληρώθηκε
+
+Toolbox.ArcticFoxConfiguration.ActiveProfileLabel=Ενεργό:
+Toolbox.ArcticFoxConfiguration.Advanced.BVO.Battery1Label=Μπαταρία 1:
+Toolbox.ArcticFoxConfiguration.Advanced.BVO.Battery2Label=Μπαταρία 2:
+Toolbox.ArcticFoxConfiguration.Advanced.BVO.Battery3Label=Μπαταρία 3:
+Toolbox.ArcticFoxConfiguration.Advanced.BVO.Battery4Label=Μπαταρία 4:
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.BatteryEditButton=Επεξεργασία
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.BatteryModelLabel=Μάρκα Μπαταρίας:
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.CheckTCRLabel=Έλεγχος TCR:
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.LSLLabel=ΛΕΥ (LSL):
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.PuffCutOffLabel=Μέγιστη Εισπνοή:
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.RCOBCLabel=ΕΕΜΚΑΜ (RCOBC):
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.ShuntCorrectionLabel=Ακρίβεια:
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.USBChargeLabel=Φόρτιση USB:
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.USBNoSleepLabel=Άυπνο USB:
+Toolbox.ArcticFoxConfiguration.Advanced.Settings.X32Label=X32:
+Toolbox.ArcticFoxConfiguration.AdvancedTab=Για Προχωρημένους
+Toolbox.ArcticFoxConfiguration.BVOTab=Ρυθμίσεις Μπαταριών
+Toolbox.ArcticFoxConfiguration.CircleScreenTab=Κυκλική Οθόνη
+Toolbox.ArcticFoxConfiguration.ClassicScreenTab=Κλασική Οθόνη
+Toolbox.ArcticFoxConfiguration.ConfigurationButton=Διαμόρφωση
+Toolbox.ArcticFoxConfiguration.ConfigurationMenu.New=Δημιουργία
+Toolbox.ArcticFoxConfiguration.ConfigurationMenu.Open=Άνοιγμα
+Toolbox.ArcticFoxConfiguration.ConfigurationMenu.SaveAs=Αποθήκευση Ώς
+Toolbox.ArcticFoxConfiguration.ConnectAndDownloadLink=Συνδέστε τη συσκευή και κάντε λήψη των ρυθμίσεων
+Toolbox.ArcticFoxConfiguration.ControlsTab=Πλήκτρα Ελέγχου
+Toolbox.ArcticFoxConfiguration.DownloadButton=Λήψη Ρυθμίσεων
+Toolbox.ArcticFoxConfiguration.EnabledCheckBox=Ενεργό
+Toolbox.ArcticFoxConfiguration.General.Controls.2ClicksLabel=2 Κλικ:
+Toolbox.ArcticFoxConfiguration.General.Controls.3ClicksLabel=3 Κλικ:
+Toolbox.ArcticFoxConfiguration.General.Controls.4ClicksLabel=4 Κλικ:
+Toolbox.ArcticFoxConfiguration.General.Controls.Power1WStepLabel=Ισχύς με βήμα 1W:
+Toolbox.ArcticFoxConfiguration.General.Controls.SharedLabel=Κοινά:
+Toolbox.ArcticFoxConfiguration.General.Controls.TCModeClicksLabel=Έλεγχος Θερμοκρασίας: Επανάληψη Κεντρικού πλήκτρου:
+Toolbox.ArcticFoxConfiguration.General.Controls.UpDownButtonsLabel=Κουμπιά +/- :
+Toolbox.ArcticFoxConfiguration.General.Controls.VWModeClicksLabel=Μεταβλητής Ισχύος: Επανάληψη Κεντρικού πλήκτρου:
+Toolbox.ArcticFoxConfiguration.General.Controls.WakeUpPlusMinusLabel=Αφύπνιση με +/- :
+Toolbox.ArcticFoxConfiguration.General.Layout.Line1Label=Γραμμή 1:
+Toolbox.ArcticFoxConfiguration.General.Layout.Line2Label=Γραμμή 2:
+Toolbox.ArcticFoxConfiguration.General.Layout.Line3Label=Γραμμή 3:
+Toolbox.ArcticFoxConfiguration.General.Layout.Line4Label=Γραμμή 4:
+Toolbox.ArcticFoxConfiguration.General.Layout.PuffTimeLabel=Χρ. Εισπν.
+Toolbox.ArcticFoxConfiguration.General.Layout.TCModeLayoutLabel=Ταξινόμηση γραμμών σε Έλεγχο Θερμοκρασίας:
+Toolbox.ArcticFoxConfiguration.General.Layout.VWModeLayoutLabel=Ταξινόμηση γραμμών σε Μεταβλητή Ισχύ:
+Toolbox.ArcticFoxConfiguration.General.Screen.BrightnessLabel=Φωτεινότητα:
+Toolbox.ArcticFoxConfiguration.General.Screen.ChargeScreenLabel=Οθόνη Φόρτισης:
+Toolbox.ArcticFoxConfiguration.General.Screen.ClockTypeLabel=Τύπος Ρολογιού:
+Toolbox.ArcticFoxConfiguration.General.Screen.FlippedLabel=Ανεστραμμένη:
+Toolbox.ArcticFoxConfiguration.General.Screen.IdleTimeLabel=Χρόνος Αδράνειας:
+Toolbox.ArcticFoxConfiguration.General.Screen.MainScreenSkinLabel=Θέμα:
+Toolbox.ArcticFoxConfiguration.General.Screen.PuffScreenDelayLabel=Ένδειξη εισπνοών:
+Toolbox.ArcticFoxConfiguration.General.Screen.ScreensaverTimeLabel=Προφύλαξη Οθ.:
+Toolbox.ArcticFoxConfiguration.General.Screen.ShowClockLabel=Ρολόι:
+Toolbox.ArcticFoxConfiguration.General.Screen.ShowLogoLabel=Λογότυπο:
+Toolbox.ArcticFoxConfiguration.General.Screen.StealthModeLabel=Απόκρυψη Οθόνης:
+Toolbox.ArcticFoxConfiguration.General.Screen.TooltipLabel=Σύρτε το ποντίκι στις ετικέτες για να εμφανιστεί η λειτουργία του εργαλείου.
+Toolbox.ArcticFoxConfiguration.General.Screen.UseClassicMenuLabel=Κλασικό μενού:
+Toolbox.ArcticFoxConfiguration.General.Stats.PuffsCountLabel=Εισπνοές:
+Toolbox.ArcticFoxConfiguration.General.Stats.PuffsTimeFormatLabel=Χρόνος Εισπνοών:
+Toolbox.ArcticFoxConfiguration.General.Stats.TotalPuffsTimeLabel=Συνολικός χρόνος:
+Toolbox.ArcticFoxConfiguration.GeneralTab=Γενικά
+Toolbox.ArcticFoxConfiguration.LayoutTab=Διάταξη
+Toolbox.ArcticFoxConfiguration.MaterialsTab=Υλικά
+Toolbox.ArcticFoxConfiguration.NewConfigurationLink=Δημιουργία νέων ρυθμίσεων
+Toolbox.ArcticFoxConfiguration.OpenConfigurationLink=Άνοιγμα υπάρχοντων ρυθμίσεων
+Toolbox.ArcticFoxConfiguration.PowerCurvesTab=Καμπύλες Ισχύος
+Toolbox.ArcticFoxConfiguration.Profile.CoilMaterialLabel=Υλικό Αντίστασης:
+Toolbox.ArcticFoxConfiguration.Profile.LockedCheckBox=Κλειδωμένη Τιμή Αντίστασης
+Toolbox.ArcticFoxConfiguration.Profile.ModeLabel=Λειτουργία:
+Toolbox.ArcticFoxConfiguration.Profile.NameLabel=Όνομα Προφίλ:
+Toolbox.ArcticFoxConfiguration.Profile.PowerCurveEditButton=Ρύθμιση
+Toolbox.ArcticFoxConfiguration.Profile.PowerLabel=Ισχύς:
+Toolbox.ArcticFoxConfiguration.Profile.PreheatDelayLabel=Παύση προθέρμ.:
+Toolbox.ArcticFoxConfiguration.Profile.PreheatCurveLabel=Καμπύλη προθέρμ.:
+Toolbox.ArcticFoxConfiguration.Profile.PreheatPowerLabel=Ισχύς προθέρμ.:
+Toolbox.ArcticFoxConfiguration.Profile.PreheatTimeLabel=Χρόνος προθέρμ.:
+Toolbox.ArcticFoxConfiguration.Profile.PreheatTypeLabel=Τύπος προθέρμ.:
+Toolbox.ArcticFoxConfiguration.Profile.ProfileLabel=Προφίλ:
+Toolbox.ArcticFoxConfiguration.Profile.ResistanceLabel=Αντίσταση:
+Toolbox.ArcticFoxConfiguration.Profile.TCSetupButton=Ρύθμιση
+Toolbox.ArcticFoxConfiguration.Profile.TDomCheckBox=Προτεραιότητα Θερμοκρασίας
+Toolbox.ArcticFoxConfiguration.Profile.TemperatureLabel=Θερμοκρασία:
+Toolbox.ArcticFoxConfiguration.Profile.TFREditButton=Ρύθμιση
+Toolbox.ArcticFoxConfiguration.Profile.WattsLabel=W
+Toolbox.ArcticFoxConfiguration.Profile.Mode.Power=Έλεγχος Ισχύος
+Toolbox.ArcticFoxConfiguration.Profile.Mode.TempControl=Έλεγχος Θερμ/σίας
+Toolbox.ArcticFoxConfiguration.ProfilesTab=Προφίλ
+Toolbox.ArcticFoxConfiguration.ResetButton=Επαναφορά ρυθμίσεων
+Toolbox.ArcticFoxConfiguration.ScreenTab=Οθόνη
+Toolbox.ArcticFoxConfiguration.SecondsLabel=δευτερόλεπτα
+Toolbox.ArcticFoxConfiguration.SettingsTab=Ρυθμίσεις
+Toolbox.ArcticFoxConfiguration.SmallScreenTab=Μικρή οθόνη
+Toolbox.ArcticFoxConfiguration.SmartCheckBox=Έξυπνη επιλογή Προφίλ
+Toolbox.ArcticFoxConfiguration.StatsTab=Στατιστικά
+Toolbox.ArcticFoxConfiguration.UploadButton=Μεταφόρτωση ρυθμίσεων
+Toolbox.ArcticFoxConfiguration.VoltsLabel=v
+
+// Tooltips
+Toolbox.ArcticFoxConfiguration.Tooltips.MainScreenSkin=Αλλάξτε τον τρόπο εμφάνισης της κύριας οθόνης. Εφαρμόζεται μόνο σε συσκευές με μεγάλη οθόνη (64x128).
+Toolbox.ArcticFoxConfiguration.Tooltips.UseClassicMenu=Επιτρέπει την εναλλαγή των προφίλ με τον κλασικό τρόπο: Power, Ni, Ti, κλπ.
+Toolbox.ArcticFoxConfiguration.Tooltips.ShowLogo=Εμφάνιση Λογότυπου στην Κύρια Οθόνη.
+Toolbox.ArcticFoxConfiguration.Tooltips.ShowClock=Εμφάνιση Ρολογιού στην Κύρια Οθόνη.
+Toolbox.ArcticFoxConfiguration.Tooltips.MaxPuffTime=Μέγιστος επιτρεπόμενος χρόνος εισπνοής.
+Toolbox.ArcticFoxConfiguration.Tooltips.ShuntCorrection=Διόρθωση Ωμόμετρου.
+Toolbox.ArcticFoxConfiguration.Tooltips.X32=Ενεργοποιεί/Απενεργοποιεί τη χρήση του X32 κρυστάλλου της πλακέτας. \nΑπενεργοποιήστε αν δεν υπάρχει τέτοιος κρύσταλλος στην πλακέτα.
+Toolbox.ArcticFoxConfiguration.Tooltips.LightSleep=Λειτουργία Ελαφριού Ύπνου (ΛΕΥ)\nΓια τις συσκευές χωρίς δευτερεύοντες ταλαντωτές (Χ32) διατηρεί την ακρίβεια του RTC (Ρολόι Πραγματικού Χρόνου).\nΕάν η συσκευή δεν είχε ρολόι, ΕΝΕΡΓΟΠΟΙΗΣΤΕ αυτή την επιλογή.\nΚαταναλώνει λίγη παραπάνω μπαταρία στην οθόνη αναμονής.\nΓια αυτό το λόγο ο χρήστης προειδοποιείτε με ένα θαυμαστικό (!) στα δεξιά της ένδειξης μπαταρίας.
+Toolbox.ArcticFoxConfiguration.Tooltips.Rcobc=Ερώτηση Επαναφοράς Μετρητών Κατα την Αλλαγή Μπαταριών.\nΔιαγράφονται τα στατιστικά ατμίσματος (Χρόνος/Εισπνοές).
+Toolbox.ArcticFoxConfiguration.Tooltips.CheckTCR=Έλεγχος του υλικού αντίστασης TCR, απενεργοποιήστε αυτή την επιλογή εάν έχετε συχνά TCR Error.
+Toolbox.ArcticFoxConfiguration.Tooltips.UsbCharge=Ενεργοποιεί/Απενεργοποιεί την φόρτιση μέσω θύρας USB.
+Toolbox.ArcticFoxConfiguration.Tooltips.UsbNoSleep=Δεν πέφτει σε "λήθαργο" όταν είναι συνδεδεμένη η συσκευή μέσω θύρας USB.
+
+// Static Dropdowns
+Toolbox.ArcticFoxConfiguration.Profile.PreheatType.Absolute=Απόλυτη (W)
+Toolbox.ArcticFoxConfiguration.Profile.PreheatType.Relative=Σχετική (%)
+Toolbox.ArcticFoxConfiguration.Profile.PreheatType.Curve=Καμπύλη
+Toolbox.ArcticFoxConfiguration.InfoLines.NonDominant=Μη Κυρίαρχο (Ισχ/Θερμ)
+Toolbox.ArcticFoxConfiguration.InfoLines.Volts=Volts
+Toolbox.ArcticFoxConfiguration.InfoLines.OutputVolts=Έξοδος Volts
+Toolbox.ArcticFoxConfiguration.InfoLines.OutputAmps=Έξοδος Amps
+Toolbox.ArcticFoxConfiguration.InfoLines.Resistance=Αντίσταση
+Toolbox.ArcticFoxConfiguration.InfoLines.LiveResistance=Πραγματική Αντίσταση
+Toolbox.ArcticFoxConfiguration.InfoLines.LinePuffs=Αριθμός Εισπνοών
+Toolbox.ArcticFoxConfiguration.InfoLines.LinePuffsTime=Χρόνος Εισπνοών
+Toolbox.ArcticFoxConfiguration.InfoLines.BatteriesVolts=Μπαταρίας/ιών
+Toolbox.ArcticFoxConfiguration.InfoLines.DateTime=Ημερομηνία/Ώρα
+Toolbox.ArcticFoxConfiguration.InfoLines.BoardTemp=Θερμοκρασία Πλακέτας
+Toolbox.ArcticFoxConfiguration.InfoLines.LastPuffTime=Χρόνος τελευταίας Εισπνοής
+Toolbox.ArcticFoxConfiguration.InfoLines.LastPower=Tελευταία ρύθμιση Watt
+Toolbox.ArcticFoxConfiguration.InfoLines.LastTemperature=Τελευταία Θερμοκρασία
+Toolbox.ArcticFoxConfiguration.InfoLines.BatteryIndicator=Μπάρα Μπαταρίας
+Toolbox.ArcticFoxConfiguration.InfoLines.BatteryIndicatorPercents=Μπάρα Μπαταρίας + %
+Toolbox.ArcticFoxConfiguration.InfoLines.BatteryIndicatorVolts=Μπάρα Μπαταρίας + Volts
+Toolbox.ArcticFoxConfiguration.InfoLines.BatteryPercents=Μπαταρία %
+Toolbox.ArcticFoxConfiguration.Skin.Classic=Κλασικό
+Toolbox.ArcticFoxConfiguration.Skin.Circle=Κυκλικό
+Toolbox.ArcticFoxConfiguration.ChargeScreen.Classic=Κλασική
+Toolbox.ArcticFoxConfiguration.ChargeScreen.Extended=Εκτεταμένη
+Toolbox.ArcticFoxConfiguration.ClockType.Analog=Αναλογικό
+Toolbox.ArcticFoxConfiguration.ClockType.Digital=Ψηφιακό
+Toolbox.ArcticFoxConfiguration.ScreenProtectionTime.Off=Ανενεργό
+Toolbox.ArcticFoxConfiguration.ScreenProtectionTime.1Min=1 Λεπτό
+Toolbox.ArcticFoxConfiguration.ScreenProtectionTime.2Min=2 Λεπτά
+Toolbox.ArcticFoxConfiguration.ScreenProtectionTime.5Min=5 Λεπτά
+Toolbox.ArcticFoxConfiguration.ScreenProtectionTime.10Min=10 Λεπτά
+Toolbox.ArcticFoxConfiguration.ScreenProtectionTime.15Min=15 Λεπτά
+Toolbox.ArcticFoxConfiguration.ScreenProtectionTime.20Min=20 Λεπτά
+Toolbox.ArcticFoxConfiguration.ScreenProtectionTime.30Min=30 Λεπτά
+Toolbox.ArcticFoxConfiguration.ClickActions.None=Κανένα
+Toolbox.ArcticFoxConfiguration.ClickActions.Edit=Επεξεργασία
+Toolbox.ArcticFoxConfiguration.ClickActions.MainMenu=Κυρίως Μενού
+Toolbox.ArcticFoxConfiguration.ClickActions.PreheatMenu=Μενού Προθέρμανσης
+Toolbox.ArcticFoxConfiguration.ClickActions.SelectProfile=Επιλογή Προφίλ
+Toolbox.ArcticFoxConfiguration.ClickActions.Edit Profile=Επεξεργασία Προφίλ
+Toolbox.ArcticFoxConfiguration.ClickActions.TDom=ΤDom
+Toolbox.ArcticFoxConfiguration.ClickActions.ShowClock=Εμφάνιση Ρολογίου
+Toolbox.ArcticFoxConfiguration.ClickActions.InfoScreen=Οθόνη πληροφοριών
+Toolbox.ArcticFoxConfiguration.ClickActions.SmartOnOff=Έξυπνο Ενεργό / Ανενεργό
+Toolbox.ArcticFoxConfiguration.ClickActions.LLSOnOf=LSL Ενεργό / Ανενεργό
+Toolbox.ArcticFoxConfiguration.ClickActions.OnOff=Ενεργό / Ανενεργό
+Toolbox.ArcticFoxConfiguration.UpDownButtons.Normal=Κανονικά
+Toolbox.ArcticFoxConfiguration.UpDownButtons.Swapped=Ανεστραμμένα
+Toolbox.ArcticFoxConfiguration.PuffsTimeFormat.Seconds=Δευτερόλεπτα
+Toolbox.ArcticFoxConfiguration.PuffsTimeFormat.HHMMSS=ΩΩ:ΛΛ:ΔΔ
+Toolbox.ArcticFoxConfiguration.BatteryModel.Generic=Γενικό Προφίλ
+Toolbox.ArcticFoxConfiguration.BatteryModel.Custom=Προφίλ Χρήστη
+
+// ArcticFox Configuration - PiRegulator Setup Window
+Toolbox.ArcticFoxConfiguration.PiRegulator.SetupLabel=PI-Ρυθμιστής:
+Toolbox.ArcticFoxConfiguration.PiRegulator.UsePiRegulatorLabel=PI-Ρυθμιστής:
+Toolbox.ArcticFoxConfiguration.PiRegulator.EnabledCheckBox=Ενεργοποιημένο
+Toolbox.ArcticFoxConfiguration.PiRegulator.RangeLabel=Εμβέλεια:
+Toolbox.ArcticFoxConfiguration.PiRegulator.PLabel=Τιμή P:
+Toolbox.ArcticFoxConfiguration.PiRegulator.ILabel=Τιμή I:
+Toolbox.ArcticFoxConfiguration.PiRegulator.SaveButton=Αποθήκευση
+Toolbox.ArcticFoxConfiguration.PiRegulator.CancelButton=Ακύρο
+
+// ArcticFox Configuration - Power Curve Editor Window
+Toolbox.ArcticFoxConfiguration.PowerCurveEditor.NameLabel=Ονομασία καμπύλης:
+Toolbox.ArcticFoxConfiguration.PowerCurveEditor.ChartNameLabel=Καμπύλη:
+Toolbox.ArcticFoxConfiguration.PowerCurveEditor.TimeLabel=Χρόνος:
+Toolbox.ArcticFoxConfiguration.PowerCurveEditor.PercentLabel=%:
+Toolbox.ArcticFoxConfiguration.PowerCurveEditor.TimeScaleButton=Χρονοδιάγραμμα
+Toolbox.ArcticFoxConfiguration.PowerCurveEditor.SaveButton=Αποθήκευση
+Toolbox.ArcticFoxConfiguration.PowerCurveEditor.CancelButton=Ακύρο
+
+// ArcticFox Configuration - TFR Curve Editor Window
+Toolbox.ArcticFoxConfiguration.TFRCurveEditor.NameLabel=Προφίλ:
+Toolbox.ArcticFoxConfiguration.TFRCurveEditor.ChartNameLabel=TFR Καμπύλη:
+Toolbox.ArcticFoxConfiguration.TFRCurveEditor.FactorLabel=Παράγoντας:
+Toolbox.ArcticFoxConfiguration.TFRCurveEditor.ExportButton=Εξαγωγή
+Toolbox.ArcticFoxConfiguration.TFRCurveEditor.ImportButton=Εισαγωγή
+Toolbox.ArcticFoxConfiguration.TFRCurveEditor.SaveButton=Αποθήκευση
+Toolbox.ArcticFoxConfiguration.TFRCurveEditor.CancelButton=Ακύρο
+
+// ArcticFox Configuration - Discharge Curve Editor Window
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.ProfileLabel=Προφίλ:
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.ChartNameLabel=Καμπύλη αποφόρτισης:
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.VoltsLabel=Volts:
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.CutoffLabel=Διακοπή:
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.PresetsButton=Προεπιλογές
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.ExportButton=Εξαγωγή
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.ImportButton=Εισαγωγή
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.SaveButton=Αποθήκευση
+Toolbox.ArcticFoxConfiguration.DischargeCurveEditor.CancelButton=Ακύρο
+
+// Device Monitor Window
+Toolbox.DeviceMonitor.SensorsLabel=Αισθητήρες:
+Toolbox.DeviceMonitor.ControlsLabel=Έλεγχος:
+Toolbox.DeviceMonitor.ChartNameLabel=Χρονοδιάγραμμα:
+Toolbox.DeviceMonitor.FollowButton=Ακολούθηση
+
+Toolbox.DeviceMonitor.Battery1Label=Μπαταρία 1:
+Toolbox.DeviceMonitor.Battery2Label=Μπαταρία 2:
+Toolbox.DeviceMonitor.Battery3Label=Μπαταρία 3:
+Toolbox.DeviceMonitor.Battery4Label=Μπαταρία 4:
+Toolbox.DeviceMonitor.BatteryPackLabel=Πακέτο Μπαταριών:
+Toolbox.DeviceMonitor.PowerLabel=Ισχύς:
+Toolbox.DeviceMonitor.PowerSetLabel=Ρύθμιση Ισχύος:
+Toolbox.DeviceMonitor.TemperatureLabel=Θερμοκρασία:
+Toolbox.DeviceMonitor.TemperatureSetLabel=Ρύθμιση Θερμοκρασίας:
+Toolbox.DeviceMonitor.OutputCurrentLabel=Ρεύμα εξόδου:
+Toolbox.DeviceMonitor.OutputVoltageLabel=Τάση εξόδου:
+Toolbox.DeviceMonitor.ColdResistanceLabel=Κρύα Αντίσταση:
+Toolbox.DeviceMonitor.LiveResistanceLabel=Πραγματική Αντίσταση:
+Toolbox.DeviceMonitor.BoardTempLabel=Θερμοκρασία πλακέτας:
+
+Toolbox.DeviceMonitor.PauseButton=Παύση
+Toolbox.DeviceMonitor.PauseResumeButton=Συνέχεια
+Toolbox.DeviceMonitor.RecordButton=Εγγραφή...
+Toolbox.DeviceMonitor.RecordStopButton=Διακοπή Εγγραφής
+Toolbox.DeviceMonitor.SetXScaleButton=Ορισμός X άξονα
+Toolbox.DeviceMonitor.SetYScaleButton=Ορισμός Y άξονα
+Toolbox.DeviceMonitor.PuffButton=Εισπνοή...
+Toolbox.DeviceMonitor.ShowPufsBoundariesCheckBox=Εμφάνιση Ορίων εισπνοής
+
+// Screenshooter Window
+Toolbox.Screenshooter.ScreenGroupLabel=Οθόνη:
+Toolbox.Screenshooter.ControlsGroupLabel=Διακόπτες:
+Toolbox.Screenshooter.TakeScreenshotButton=Λήψη εικόνας
+Toolbox.Screenshooter.SaveScreenshotButton=Αποθήκευση εικόνας
+Toolbox.Screenshooter.PixelSizeLabel=Πολλ/στής μεγέθους Pixel:
+Toolbox.Screenshooter.TakeBeforeSaveLabel=Λήψη πρίν την αποθήκευση:
+Toolbox.Screenshooter.TakeBeforeSaveCheckbox=Ενεργό
+Toolbox.Screenshooter.StartBroadcastButton=Έναρξη αναμετάδοσης
+Toolbox.Screenshooter.StopBroadcastButton=Διακοπή αναμετάδοσης
+Toolbox.Screenshooter.CancelButton=Άκυρο
+
+// Firmware Updater Window
+Toolbox.FirmwareUpdater.DeviceInfoGroupLabel=Πληροφορίες Συσκευής:
+Toolbox.FirmwareUpdater.DeviceNameLabel=Όνομα Συσκευής:
+Toolbox.FirmwareUpdater.FirmwareVersionLabel=Έκδοση Λογισ/κού:
+Toolbox.FirmwareUpdater.HardwareVersionLabel=Έκδοση Υλικού:
+Toolbox.FirmwareUpdater.BootModeLabel=Εκκίνηση:
+Toolbox.FirmwareUpdater.ProgressGroupLabel=Πρόοδος:
+Toolbox.FirmwareUpdater.OperationsGroupLabel=Λειτουργίες:
+Toolbox.FirmwareUpdater.CommonTab=Αναβάθμιση
+Toolbox.FirmwareUpdater.UpdateButton=Από αρχείο
+Toolbox.FirmwareUpdater.DatalfashTab=Δεδομένα
+Toolbox.FirmwareUpdater.ReadDataflashButton=Ανάγνωση Δεδομένων
+Toolbox.FirmwareUpdater.WriteDataflashButton=Εγγραφή Δεδομένων
+Toolbox.FirmwareUpdater.ResetDataFlashButton=Επαναφορά Δεδομένων
+Toolbox.FirmwareUpdater.AdvancedTab=Προχωρημένες
+Toolbox.FirmwareUpdater.ChangeHWVerButton=Αλλαγή έκδοσης Υλικού
+Toolbox.FirmwareUpdater.SwitchBootModeButton=Αλλαγή τύπου εκκίνησης
+Toolbox.FirmwareUpdater.CancelButton=Άκυρο
+
+Toolbox.FirmwareUpdater.Messages.DeviceIsReady=Η συσκευή είναι έτοιμη.
+Toolbox.FirmwareUpdater.Messages.WaitingForDevice=Αναμονή για συσκευή...
+Toolbox.FirmwareUpdater.Messages.WaitingForDeviceAfterReset=Αναμονή για συσκευή μετά την επανεκκίνηση...
+Toolbox.FirmwareUpdater.Messages.ReadingDataflash=Ανάγνωση Δεδομένων...
+Toolbox.FirmwareUpdater.Messages.WritingDataflash=Εγγραφή Δεδομένων...
+Toolbox.FirmwareUpdater.Messages.RestartingDevice=Επανεκκίνηση Συσκευής...
+Toolbox.FirmwareUpdater.Messages.UploadingFirmware=Μεταφόρτωση Λογισμικού...
+Toolbox.FirmwareUpdater.Messages.DataflashReadAndSave=Τα δεδομένα διαβάστηκαν και γράφτηκαν επιτυχώς στο αρχείο.
+Toolbox.FirmwareUpdater.Messages.DataflashWritten=Επιτυχής εγγραφή Δεδομένων.
+Toolbox.FirmwareUpdater.Messages.DataflashReseted=Τα Δεδομένα επαναφέρθηκαν.
